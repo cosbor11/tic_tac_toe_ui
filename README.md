@@ -28,7 +28,7 @@
 
  - When the screen first launches, user will be prompted with a `StartupDialog` and must select either "X"  or "O"
  - If they select "X', they go first
- - After making a move, a request is sent to `tic-tac-toe-api` to get the computers next move. The request sent to the api should include the player the computer is using and the moves that have already been played so that it can statelessly construct a game state for each request.
+ - After making a move, a request is sent to `tic-tac-toe-api` to get the computers next move. The request sent to the api should include the player the computer is using and the moves that have already been played so that it can constuct a game state.
  - The UI is then updated with the computers move, and will evaluate if there is a winner or stalemate each time a move is played. 
 
 ENJOY!
