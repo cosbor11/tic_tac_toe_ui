@@ -11,11 +11,11 @@
     2. ✔ Flutter 2.2.3
     3. ✔ Dart 2.13.4
     4. ✔ Chrome Broswer
-    5. ✔ tic-tac-toe-api
+    5. ✔ [tic-tac-toe-api](https://github.com/cosbor11/tic-tac-toe-api)
    
 
   - **Running**:
-    1.  ✔  Before starting the UI, clone and launch `tic-tac-toe-api` See the tic-tac-toe-api/README.md for steps
+    1.  ✔  Before starting the UI, clone and launch `tic-tac-toe-api` See the [tic-tac-toe-api/README.md](https://github.com/cosbor11/tic-tac-toe-api/blob/main/README.md) for steps
     2.  ✔  run `flutter pub get` to install the dependencies
     3.  ✔  run: `flutter run` to launch the application
     4.  ✔  interact with the application using chrome 
