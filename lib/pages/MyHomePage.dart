@@ -166,8 +166,6 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 
-  void showNewGameButton() async {}
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
