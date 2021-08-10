@@ -8,7 +8,7 @@
 
   - **Prerequisites**:  
     1. ✔ go go1.16.6 darwin/amd64 `brew install golang`
-    2. ✔ Dart 2.13.4 `brew install dart`
+    2. ✔ Dart 2.13.4 ` brew tap dart-lang/dart` then `brew install dart`
     3. ✔ Flutter 2.2.3 [installer](https://flutter.dev/docs/get-started/install)
     4. ✔ Chrome browser `brew install --cask google-chrome`
     5. ✔ [tic-tac-toe-api](https://github.com/cosbor11/tic-tac-toe-api)
