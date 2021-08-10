@@ -2,7 +2,7 @@
 
 ## Summary
 
-`tic_tac_toe_ui` is a user interface to play tic tac toe, it is agnostic to the outcome and just facilitates game play. It connects to an api to play the computer. the computer is unbeatable.
+`tic_tac_toe_ui` is a user interface to play tic tac toe, it is agnostic to the outcome and just facilitates game play. It connects to an api to play the computer.
 
 ## How to Run Locally
 
