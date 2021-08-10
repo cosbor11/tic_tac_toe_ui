@@ -10,7 +10,7 @@
     1. ✔ go go1.16.6 darwin/amd64
     2. ✔ Flutter 2.2.3
     3. ✔ Dart 2.13.4
-    4. ✔ Chrome Broswer
+    4. ✔ Chrome browser
     5. ✔ [tic-tac-toe-api](https://github.com/cosbor11/tic-tac-toe-api)
    
 
